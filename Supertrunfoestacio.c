@@ -129,9 +129,11 @@ int main()
     printf("Carta 2 é a vencedora\n");
 } else {
     printf("há um empate\n");
-           
+
+
+       
     printf("\n");
 
-
     return 0;
+    }
 }
